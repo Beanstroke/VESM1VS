@@ -1,3 +1,20 @@
-6.1: Spurningar
-  i. Skrefmótorinn starfar í opinni lykkju en DC mótor starfar í lokuðum lykkju. Skrefmótorinn er auðvelt að stjórna með örgjörvum og öðrum stjórnbúnaði.
-  ii.
+6.1: DC motor og transistor spurningar
+  i. Skrefmótorinn starfar í opinni lykkju en DC mótor starfar í lokuðum lykkju. 
+      Skrefmótorinn er auðvelt að stjórna með örgjörvum og öðrum stjórnbúnaði.
+  ii. Servo mótorinn samanstendur af þriggja víra kerfum sem kallast Power, Ground og Control en DC mótor er tveggja víra kerfi sem kallast Power og Ground.
+      Servo mótor er samsettur af fjórum hlutum DC mótor, gírbúnaði, stjórnrás og stöðuskynjara. DC mótor samanstendur ekki af neinum samsetningum.
+      Servo mótor snýst ekki frjálslega og stöðugt eins og DC mótor. Snúningur þess er takmarkaður við 180⁰ meðan DC mótor snýst stöðugt.
+      Servo mótorar eru notaðir í vélfærafræði handleggjum, fótleggjum eða stýrikerfi og leikfangabílum. DC mótorar eru notaðir í viftur, bílahjól osfrv
+  iii. Til að snúa mótornum við þarftu að breyta pólun framboðsspennunnar í annað hvort akurspennu eða armatur vindu, en ekki hvort tveggja. 
+       Almennt er betra að snúa við spennuspennu vegna þess að akurstraumurinn er minni en armúgstraumurinn, svo snúningsrofabúnaðurinn þinn er léttari.
+  iv. Transistor er rafeindabúnaður sem tekur lítið magn af straumi og magnar það.
+      Ólíkt öllum öðrum íhlutum sem við höfum skoðað þar sem rafmagn fer í aðra hliðina og út úr hinum, er flóknara ferli að vinna í transistor.
+  v. Bæði PNP og NPN transistor eru samsettir úr mismunandi efnum og núverandi flæði þessara transistor er einnig misjafnt.
+     Í NPN transistor rennur straumurinn frá safnara (C) til sendisins (E) en í PNP transistor streymir straumurinn frá sendinum til safnara.
+     PNP transistor eru gerðir úr tveimur lögum af P efni með samlokuðu lagi af N NNN transistor eru samsettir úr tveimur lögum af N efni og samloka með einu lagi af P efni.
+     Í NPN transistor er jákvæð spenna gefin til safnaraútstöðvarinnar til að framleiða straumstreymi frá safnara til Fyrir PNP transistor er jákvæð spenna gefin til sendingarstöðvarinnar til að framleiða straumstreymi frá sendinum til safnara.
+     Vinnureglan NPN transistor er þannig að þegar þú eykur strauminn í grunnstöðvina, þá kveikir transistor á og hann rennur að fullu frá safnara til sendanda. 
+     Þegar þú minnkar strauminn að grunnstöðvinni, þá kveikir transistor minna á og þar til straumurinn er svo lítill, leiðir transistor ekki lengur yfir safnara til að senda frá sér og slekkur á honum.
+     Vinnureglan PNP transistor er þannig að þegar straumurinn er fyrir hendi í grunnstöðvum transistor, þá slokknar transistorinn. Þegar það er ekki straumur í grunnstöðvum PNP transistor, þá kveikir transistorinn á sér.
+6.2: 
+    
