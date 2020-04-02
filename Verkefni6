@@ -16,5 +16,25 @@
      Vinnureglan NPN transistor er þannig að þegar þú eykur strauminn í grunnstöðvina, þá kveikir transistor á og hann rennur að fullu frá safnara til sendanda. 
      Þegar þú minnkar strauminn að grunnstöðvinni, þá kveikir transistor minna á og þar til straumurinn er svo lítill, leiðir transistor ekki lengur yfir safnara til að senda frá sér og slekkur á honum.
      Vinnureglan PNP transistor er þannig að þegar straumurinn er fyrir hendi í grunnstöðvum transistor, þá slokknar transistorinn. Þegar það er ekki straumur í grunnstöðvum PNP transistor, þá kveikir transistorinn á sér.
-6.2: 
-    
+2. 
+  https://www.tinkercad.com/things/fsNQjm7yG7N-cool-turing-gaaris    
+3.
+ i. 
+  Eins og nafnið gefur til kynna virkar hraðastýring á púlsbreidd mótunar með því að keyra mótorinn með röð „ON-OFF“ púlsa og breyta vinnuskipti, brot tímans sem framleiðsla spenna er „ON“ samanborið við þegar það er “OFF” “, á púlsunum meðan tíðnin er stöðug.
+ ii. DC mótorinn mun líklega nota meira afl en Arduino stafræna framleiðsla ræður beint við. Ef við reyndum að tengja mótorinn beint við Arduino pinna eru góðar líkur á að það gæti skemmt Arduino.
+
+4. Verklegt myndband
+
+6.2
+  i.https://www.tinkercad.com/things/8JnWBFUu4iJ-spectacular-bigery
+  ii. verklegt myndband hér
+3.
+  i. 
+    Rafþéttir virkar sem biðminni fyrir straum, svo lengi sem USB-aflið getur skilað meðaltalstraumnum, mun þéttarinn hjálpa með því að slétta út núverandi toppana.
+  ii. 
+    Rafhlaða geymir raforku í formi efnaorku en rafþétti geymir raforku á segulsviði.
+  iii.
+    a. Dc motor er notaður í allskonar tæki, tól og leikföng
+    b. Stepper motor er notaður mikið í prentara, geisladrif, úr og klukkur útaf rafsegulnum.
+    c. t.d. Lyftur, stýri, gangandi vélmenni eða starfrækt grip
+  iv. 90° á 1.5 ms
